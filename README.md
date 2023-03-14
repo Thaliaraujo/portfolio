@@ -1,0 +1,8 @@
+# portfolio
+Meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
+
+| :cartaz: Vitrine.Dev | |
+| ------------- | --- |
+| :brilhos: Nome |**Portfólio**
+| :label: Tecnologias | Html e CSS (tecnologias utilizadas)
+| :câmera: imagem |
